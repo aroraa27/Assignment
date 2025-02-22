@@ -14,8 +14,7 @@ This project is designed to simplify the process of visualizing and storing the 
 - [Installation and Build Instructions](#installation-and-build-instructions)
 - [Running the Nodes](#running-the-nodes)
 - [RViz Visualization](#rviz-visualization)
-- [Testing the System](#testing-the-system)
-- [Notes and Future Improvements](#notes-and-future-improvements)
+
 
 ## Overview
 
